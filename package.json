@@ -2,9 +2,7 @@
   "name": "defuddle-skill",
   "version": "1.0.0",
   "description": "Claude Code skill for defuddle - extract clean article content from web pages",
-  "bin": {
-    "defuddle-skill": "./bin/install.mjs"
-  },
+  "bin": "./bin/install.mjs",
   "files": [
     "bin",
     "skills"

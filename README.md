@@ -4,10 +4,10 @@ A [Claude Code](https://claude.ai/claude-code) skill that wraps [defuddle](https
 
 ## Install
 
-### Option 1: npx (recommended)
+### Option 1: npx from GitHub (recommended)
 
 ```bash
-npx defuddle-skill
+npx github:joeseesun/defuddle-skill
 ```
 
 This will:
