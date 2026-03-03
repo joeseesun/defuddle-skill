@@ -1,0 +1,25 @@
+{
+  "name": "defuddle-skill",
+  "version": "1.0.0",
+  "description": "Claude Code skill for defuddle - extract clean article content from web pages",
+  "bin": {
+    "defuddle-skill": "./bin/install.mjs"
+  },
+  "files": [
+    "bin",
+    "skills"
+  ],
+  "keywords": [
+    "claude-code",
+    "agent-skill",
+    "defuddle",
+    "web-extraction",
+    "content-extraction"
+  ],
+  "author": "joeseesun",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joeseesun/defuddle-skill"
+  }
+}
